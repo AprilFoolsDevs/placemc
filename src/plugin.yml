@@ -1,0 +1,8 @@
+name: PlaceMC
+version: 0.0.1
+author: JJJollyjim <jamie.mcclymont@gmail.com>
+main: com.kwiius.placemc.PluginMain
+commands:
+  goto:
+    description: Teleport to a position
+    usage: /goto x y

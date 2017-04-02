@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="placemc:jar">
+    <output-path>$PROJECT_DIR$/../server/plugins</output-path>
+    <root id="archive" name="placemc.jar">
+      <element id="module-output" name="placemc" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/fluent-hc-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/httpcore-4.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/httpclient-4.5.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
