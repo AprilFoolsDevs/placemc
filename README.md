@@ -1,6 +1,10 @@
 # placemc
 Mirrors Place into Minecraft - reddit.place:25565
 
+## I'm a noob, I just want to join!
+
+Join us! The IP is: `reddit.place`
+
 ## Building
 
 Spigot requires a jar containing plugin.yml plus the classes.
