@@ -6,3 +6,12 @@ commands:
   goto:
     description: Teleport to a position
     usage: /goto x y
+  generate:
+    description: Places the background square of white wool
+    usage: /generate
+    permission: placemc.generate
+    permission-message: You don't have <permission>
+permissions:
+  placemc.generate:
+    description: Access to generate wool
+    default: op
