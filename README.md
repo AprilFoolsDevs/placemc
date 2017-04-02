@@ -1,5 +1,5 @@
 # placemc
-Mirrors Place into Minecraft
+Mirrors Place into Minecraft - reddit.place:25565
 
 ## Building
 
