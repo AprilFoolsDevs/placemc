@@ -44,7 +44,7 @@ public class PlaceBlocksTask extends BukkitRunnable {
                         .withColor(DyeColor.getByWoolData(p.blockType).getColor())
                         .withFade(DyeColor.getByWoolData(p.blockType).getColor())
                         .build());
-                fm.setPower(3);
+                fm.setPower(0);
                 f.setFireworkMeta(fm);
             }
         }
