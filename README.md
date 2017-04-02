@@ -17,8 +17,8 @@ Add to `bukkit.yml`:
       world:
         generator: VoidGenerator
 
-** Misc
+## License
 
 Copyright 2017 JJJollyjim
 
-Available under the terms of the MIT license
+Available under the terms of the MIT license, except for Apache HTTPClient Fluent and its dependencies which are provided by Apache under their license
